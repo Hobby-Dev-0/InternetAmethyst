@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+!--
 **InternetAmethyst/InternetAmethyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![InternetAmethest Git Stats](https://github-readme-stats.vercel.app/api?username=InternetAmethyst&include_all_commits=true&count_private=true&theme=tokyonight)
