@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 
 
 ![InternetAmethest Git Stats](https://github-readme-stats.vercel.app/api?username=InternetAmethyst&include_all_commits=true&count_private=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InternetAmethyst&layout=compact&theme=radical)](https://github.com/InternetAmethyst)
+---
