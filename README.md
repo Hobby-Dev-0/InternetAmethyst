@@ -2,6 +2,7 @@
 
 !--
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Andencento Userbot
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![InternetAmethest Git Stats](https://github-readme-stats.vercel.app/api?username=InternetAmethyst&include_all_commits=true&count_private=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InternetAmethyst&layout=compact&theme=radical)](https://github.com/InternetAmethyst)
+![Hobby Devs's Git Stats](https://github-readme-stats.vercel.app/api?username=Hobby-Dev-0&include_all_commits=true&count_private=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hobby-Dev-0&layout=compact&theme=radical)](https://github.com/Hobby-Dev-0)
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=InternetAmethyst&show_icons=true&locale=en&langs_count=15&theme=tokyonight" alt="InternetAmethyst " /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hobby-Dev-0&show_icons=true&locale=en&langs_count=15&theme=tokyonight" alt="Hobby-Dev-0 " /></p>
